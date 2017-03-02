@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "github.com/neovim/go-client": {
+            "branch": "master"
+        },
+        "github.com/pkg/sftp": {
+            "branch": "master"
+        },
+        "golang.org/x/crypto": {
+            "branch": "master"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "memo": "",
+    "projects": [
+        {
+            "name": "github.com/kr/fs",
+            "branch": "master",
+            "revision": "2788f0dbd16903de03cb8186e5c7d97b69ad387b",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/neovim/go-client",
+            "branch": "master",
+            "revision": "b4d0001757af5980b20bf246e900b9b0976a0a00",
+            "packages": [
+                "nvim/plugin"
+            ]
+        },
+        {
+            "name": "github.com/pkg/errors",
+            "branch": "master",
+            "revision": "248dadf4e9068a0b3e79f02ed0a610d935de5302",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pkg/sftp",
+            "branch": "master",
+            "revision": "14edf2c3f1eef467e8e937cb9ddcff5cc6840828",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/crypto",
+            "branch": "master",
+            "revision": "552e9d568fde9701ea1944fb01c8aadaceaa7353",
+            "packages": [
+                "ssh",
+                "ssh/agent"
+            ]
+        }
+    ]
+}

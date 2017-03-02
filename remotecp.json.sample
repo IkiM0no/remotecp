@@ -1,0 +1,7 @@
+{
+    
+    "host": "12.23.34.45",
+    "port": 22,
+    "user": "ubuntu",
+    "remote_path": "/home/ubuntu/pf"
+}

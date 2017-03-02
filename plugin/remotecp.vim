@@ -72,7 +72,7 @@ if exists('g:loaded_remotecp')
 endif
 let g:loaded_remotecp = 1
 function! s:Requireremotecp(host) abort
-  return jobstart(['/Users/ybolanos/Dropbox/src/remotecp/remotecp'], {'rpc': v:true})
+  return jobstart(['/Users/ybolanos/Dropbox/go/src/github.com/rem7/remotecp/remotecp'], {'rpc': v:true})
 endfunction
 call remote#host#Register('remotecp', 'x', function('s:Requireremotecp'))
 
